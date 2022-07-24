@@ -7,6 +7,10 @@
 	background-color: #da8a8a;
 }
 
+tr:nth-child(even) {
+	background-color: Lightgreen;
+}
+
 table {
  color: #111;
  border-radius: 5px;
